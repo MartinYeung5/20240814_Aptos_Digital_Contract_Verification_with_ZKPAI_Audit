@@ -1,0 +1,22 @@
+[package]
+name = "aptos_move"
+version = "1.0.0"
+authors = []
+upgrade_policy = "compatible"
+
+[addresses]
+contract="0x546db4d367eaae5232e5326cf56e054c33faccd2413eaa9d00e2c06628815952"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies.AptosTokenObjects]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-token-objects"
+
+[dev-dependencies]
