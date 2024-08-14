@@ -4,6 +4,9 @@
 * link: https://explorer.aptoslabs.com/account/0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778/modules/code/ContractDatabase?network=testnet
 * contract address: 0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778
 
+##
+Utilize ZKP + WEb3 + AI to protect digital contract.
+
 ## About this project
 The project aims to provide a solution for user to verify the contract with ZKP and check the contract with AI audit. 
 
